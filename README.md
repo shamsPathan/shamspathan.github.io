@@ -53,12 +53,10 @@ Security:        Kali Linux · Burp Suite · Wireshark · Metasploit · Nmap · 
   </picture>
   <br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=shamsPathan&theme=tokyonight&hide_border=true&border_radius=10&background=0d1117&stroke=14b8a6&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&sideNums=14b8a6">
-    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=shamsPathan&theme=default&hide_border=true&border_radius=10" alt="GitHub Streak">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=shamsPathan&theme=tokyonight&hide_border=true&border_radius=10&background=0d1117&stroke=14b8a6&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&sideNums=14b8a6&count_private=true">
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=shamsPathan&theme=default&hide_border=true&border_radius=10&count_private=true" alt="GitHub Streak">
   </picture>
 </p>
-
----
 
 ## Blog
 
