@@ -194,29 +194,6 @@ Self-taught, documentation-dependent Software Engineer with **6+ years** bridgin
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📘 Full-Stack Web Development with Go</h3>
-      <p><strong>Published by Packt</strong> — A practical guide to building complete web applications using Go and Vue.js. Covers PostgreSQL, SQLc, microservices, logging, monitoring, and frontend frameworks.</p>
-      <p align="center">
-        <a href="https://www.packtpub.com/product/becoming-a-full-stack-go-developer/9781803234199" target="_blank">
-          <img src="https://img.shields.io/badge/Get_the_Book-%23FF6B35?style=for-the-badge&logo=packt&logoColor=white" alt="Packt">
-        </a>
-        <a href="https://github.com/shamsPathan/Full-Stack-Web-Development-with-Go" target="_blank">
-          <img src="https://img.shields.io/badge/Code-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="Code">
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚽ wc-live-scores</h3>
-      <p>A lightweight, over-engineered Bash script that pushes live World Cup match scores and upcoming fixtures as persistent desktop notifications on Sway WM / Wayland. Rate-limit safe, 60s polling cycle, Mako notification daemon integration.</p>
-      <p align="center">
-        <a href="https://github.com/shamsPathan/wc-live-scores" target="_blank">
-          <img src="https://img.shields.io/badge/Source-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="Source">
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3>💡 britelin</h3>
       <p>A simple Go program that adjusts the brightness of the backlight on Linux systems using sysfs support. Clean, minimal, and built for tiling window manager workflows.</p>
       <p align="center">
