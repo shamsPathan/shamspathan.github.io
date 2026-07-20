@@ -40,20 +40,6 @@ Security:        Kali Linux · Burp Suite · Wireshark · Metasploit · Nmap · 
 
 ---
 
-## Experience
-
-| Period | Role | Company | Impact |
-|--------|------|---------|--------|
-| 2025–Present | Freelance Software Engineer — Security Specialist | Upwork, Freelancer via local clients | Application & server security; penetration testing, vulnerability assessments, audits; resilient backend systems |
-| 2024–2025 | Backend Engineer | Grameenphone (MyGP) — via Brain Station 23 | Backend features (Go & PHP) for 10M+ user ecosystem; GP Backoffice tools; Kubernetes orchestration; API latency reduction |
-| 2023–2024 | Software Engineer | Lomeyo LLC | PHP performance tuning; Caddy server with automated SSL/TLS; dynamic subdomain routing; deployment pipelines |
-| 2023 | DevOps Engineer | BitMascot Ltd | Security audits; SQL optimization reducing page load by 40%; CI/CD automation; monitoring & alerting |
-| 2020–2022 | Software Engineer | Sk Associates | Full-stack (Vue.js, Angular, PHP); enterprise email server with 10/10 deliverability; GCP & VPS infrastructure |
-| Jan 2019–Feb 2020 | PHP & VueJS Developer | Smart Software Ltd | Enterprise apps (CRM, ERP, E-commerce, LMS) with Laravel & Vue.js; condensed 1,200 DB queries to 6 |
-| 2017–2019 | Web Developer | Freelance (Freelancer.com) | Custom websites and apps for international clients using PHP, Angular, JavaScript |
-
----
-
 ## GitHub Stats
 
 <p align="center">
@@ -71,78 +57,6 @@ Security:        Kali Linux · Burp Suite · Wireshark · Metasploit · Nmap · 
     <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=shamsPathan&theme=default&hide_border=true&border_radius=10" alt="GitHub Streak">
   </picture>
 </p>
-
----
-
-## Projects
-
-### SurjyoPath — *The Sun's Way*
-A personal knowledge universe reimagined as a living solar system. Built with React 19, TypeScript, Tailwind v4, Supabase, and Fireworks AI (AMD MI300X).
-
-> *"We are not productivity machines. We are solar systems — vast, interconnected, and always in motion."*
-
-[Live Demo](https://surjyopath.com) · [Source](https://github.com/shamsPathan/surjyopath)
-
-### MyGP App (Grameenphone) — *Backend Engineer, 2024–2025*
-Backend feature development (Go & PHP) for the 10M+ user ecosystem; GP Backoffice tools; Kubernetes orchestration on GKE with zero-downtime deployments; API latency reduction by 60%.
-
-[Visit MyGP](https://www.grameenphone.com/mygp)
-
-### wc-live-scores
-Lightweight Bash script pushing live World Cup match scores as persistent desktop notifications on Sway WM / Wayland. Rate-limit safe, 60s polling cycle, Mako notification daemon integration.
-
-[Source](https://github.com/shamsPathan/wc-live-scores)
-
-### britelin
-Simple Go program that adjusts backlight brightness on Linux systems using sysfs. Clean, minimal, built for tiling window manager workflows.
-
-[Source](https://github.com/shamsPathan/britelin)
-
-### Online Ticketing Platform
-Scalable event ticketing system with real-time seat selection, payment processing, order management, and automated confirmation workflows.
-
-[Source](https://github.com/shamsPathan)
-
-### Event Booking Platform
-Full-featured event management and booking system with venue management, scheduling, attendee tracking, and analytics dashboard.
-
-[Source](https://github.com/shamsPathan)
-
-### Food Delivery Web App
-Multi-vendor food delivery platform with real-time order tracking, payment integration, admin dashboard, and driver dispatch system.
-
-[Source](https://github.com/shamsPathan)
-
-### E-commerce Platform
-Comprehensive e-commerce solution with product management, cart, checkout, payment gateway integration, and inventory management.
-
-[Source](https://github.com/shamsPathan)
-
-### Vehicle Routing System
-Optimization system for fleet vehicle routing using algorithms to minimize travel time, fuel costs, and improve delivery efficiency.
-
-[Source](https://github.com/shamsPathan)
-
-### Live Chat Application
-Real-time messaging application with WebSocket support, user presence indicators, message history, and horizontal scaling for concurrent users.
-
-[Source](https://github.com/shamsPathan)
-
----
-
-## Certifications
-
-| Certification | Issuer | Date |
-|---------------|--------|------|
-| CompTIA PenTest+ | TryHackMe | Feb 2022 |
-| Jr Penetration Tester | TryHackMe | Jan 2022 |
-| Pre Security | TryHackMe | Dec 2021 |
-| Website on Google Cloud | Google Cloud Skills Boost | Jun 2022 |
-| App Deployment, Debugging, and Performance | Google Cloud Skills Boost | Jun 2022 |
-| Google Cloud Essentials | Google Cloud Skills Boost | Feb 2022 |
-| Getting Started With Application Development | Google Cloud Skills Boost | Mar 2022 |
-| Go on Google Cloud | Google Cloud Skills Boost | Mar 2022 |
-| Google Cloud Fundamentals: Core Infrastructure | Google Cloud Skills Boost | Mar 2022 |
 
 ---
 
