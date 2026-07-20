@@ -132,11 +132,13 @@ Self-taught, documentation-dependent Software Engineer with **6+ years** bridgin
 
 | Role | Company | Period | Impact |
 |------|---------|--------|--------|
-| **Freelance Software Engineer** | **Upwork, Freelancer via local clients** | 2025–Present | Providing application and server security services |
-| **Backend Engineer** | **Grameenphone (MyGP)** | 2024–2025 | Built and scaled backend services for 10M+ users; reduced API latencies by 60%; migrated monolith to microservices |
-| **Software Engineer** | **Lomeyo LLC** | 2023–2024 | Architected real-time communication systems; led team of 5 engineers |
-| **DevOps Engineer** | **BitMascot Ltd** | 2023–2023 | DevOps, Security Audit, Code and SQL optimizations |
-| **Software Engineer** | **Sk Associates** | 2020–2022 | Built e-commerce and CRM platforms from the ground up |
+| **Freelance Software Engineer — Security Specialist** | **Upwork, Freelancer via local clients** | 2025–Present | Application & server security services; penetration testing, vulnerability assessments, and security audits; building resilient, observable backend systems |
+| **Backend Engineer** | **Grameenphone (MyGP) — via Brain Station 23** | 2024–2025 | Backend feature development (Go & PHP) for 10M+ user ecosystem; GP Backoffice tools; Kubernetes orchestration & GKE management; API latency reduction; cross-functional debugging and production support |
+| **Software Engineer** | **Lomeyo LLC** | 2023–2024 | PHP application performance tuning; Caddy server deployment with automated SSL/TLS for all domains & subdomains; dynamic subdomain routing architecture; production bottleneck resolution; reliable deployment pipelines |
+| **DevOps Engineer** | **BitMascot Ltd** | 2023 | Security audits and vulnerability assessments; SQL optimization reducing page load by 40%; CI/CD and containerization automation; monitoring and alerting systems |
+| **Software Engineer** | **Sk Associates** | 2020–2022 | Full-stack development with Vue.js, Angular & PHP; cross-platform server admin (Linux/Windows); custom enterprise email server with 10/10 deliverability; GCP & VPS infrastructure; security mentorship and code reviews |
+| **PHP & VueJS Developer** | **Smart Software Ltd** | Jan 2019–Feb 2020 | Enterprise web apps (CRM, ERP, E-commerce, LMS) with Laravel & Vue.js; condensed 1,200 DB queries to 6; post-deployment production troubleshooting; frontend & backend performance optimization |
+| **Web Developer** | **Freelance (Freelancer.com)** | 2017–2019 | Custom websites and web apps for international clients using PHP, Angular, and JavaScript; strong client communication and project management |
 
 <details>
   <summary>📋 Full Career Timeline</summary>
@@ -144,15 +146,13 @@ Self-taught, documentation-dependent Software Engineer with **6+ years** bridgin
 
   | Period | Company | Role |
   |--------|---------|------|
-  | 2025–Present | **bugfix and security specialist (Upwork,Local,self)** | Software Security Specialist |
-  | 2024–2025 | **Grameenphone (via Brain Station 23)** | Backend Engineer (MyGP) |
+  | 2025–Present | **Upwork, Freelancer via local clients** | Freelance Software Engineer — Security Specialist |
+  | 2024–2025 | **Grameenphone (MyGP) — via Brain Station 23** | Backend Engineer |
   | 2023–2024 | **Lomeyo LLC** | Software Engineer |
-  | 2023–2023 | **BitMascot Ltd** | DevOps Engineer |
-  | 2022–2022 | **GotiPath Cloud** | Software Engineer |
-  | 2022–2023 | **Freelance Software Engineer** | Software Engineer |
+  | 2023 | **BitMascot Ltd** | DevOps Engineer |
   | 2020–2022 | **Sk Associates** | Software Engineer |
-  | 2019-2020 | **Smart Software Ltd** | Intern → Jr. Software Engineer |
-  | 2017-2019 | **Freelance (Freelancer)** | Web Developer |
+  | Jan 2019–Feb 2020 | **Smart Software Ltd** | PHP & VueJS Developer |
+  | 2017–2019 | **Freelance (Freelancer.com)** | Web Developer |
 
 </details>
 
@@ -178,18 +178,33 @@ Self-taught, documentation-dependent Software Engineer with **6+ years** bridgin
     <td width="50%" valign="top">
       <h3>📱 MyGP App (Grameenphone)</h3>
       <p><strong>Backend Engineer — 2024–2025</strong></p>
-      <p>Built and scaled backend services for <strong>10M+</strong> telecommunications users. Contributions include:</p>
+      <p>Backend Engineer within the high-traffic MyGP ecosystem, focusing on scalable feature development, Kubernetes orchestration, and cloud infrastructure optimization. Contributions include:</p>
       <ul>
-        <li>Reduced API latencies by <strong>60%</strong> through query optimization & caching</li>
-        <li>Led migration from monolithic architecture to <strong>microservices</strong></li>
+        <li><strong>MyGP Feature Engineering:</strong> Designed and deployed high-performance backend features using Go and PHP for the consumer-facing app</li>
+        <li><strong>Internal Tools & Backoffice:</strong> Built and optimized critical backend management features for the GP Backoffice system</li>
+        <li><strong>Kubernetes Orchestration:</strong> Managed containerized microservices with Kubernetes, ensuring high availability and fault tolerance</li>
+        <li>Reduced API latencies by <strong>60%</strong> through deep-level optimization initiatives</li>
         <li>Zero-downtime deployments on <strong>GKE</strong> with automated CI/CD pipelines</li>
-        <li>Implemented real-time usage tracking, balance management & recharge services</li>
       </ul>
       <p align="center">
         <a href="https://www.grameenphone.com/mygp" target="_blank">
           <img src="https://img.shields.io/badge/Visit_MyGP-%23E60012?style=for-the-badge&logo=tmobile&logoColor=white" alt="MyGP">
         </a>
       </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚽ wc-live-scores</h3>
+      <p>A lightweight, over-engineered Bash script that pushes live World Cup match scores and upcoming fixtures as persistent desktop notifications on Sway WM / Wayland. Rate-limit safe, 60s polling cycle, Mako notification daemon integration.</p>
+      <p align="center">
+        <a href="https://github.com/shamsPathan/wc-live-scores" target="_blank">
+          <img src="https://img.shields.io/badge/Source-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="Source">
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <!-- placeholder for future project -->
     </td>
   </tr>
   <tr>
