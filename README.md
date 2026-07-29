@@ -1,47 +1,231 @@
-<p align="center">
-  <code>software, system := Engineer (∧) devOps, cloud := Practitioner (∧) cyberSecurity, poetry, philosophy := Enthusiast</code>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://shams.surjyopath.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%2314b8a6?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://linkedin.com/in/shamsPathan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:shamspathan@outlook.com">
-    <img src="https://img.shields.io/badge/Email-%23EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/shamsPathan/shamsPathan/raw/main/public/resume_shams_pathan_developer.pdf">
-    <img src="https://img.shields.io/badge/Resume-%2314b8a6?style=flat-square&logo=googledocs&logoColor=white" alt="Resume">
-  </a>
-</p>
+# Shams (Ud-Din) Pathan
 
----
+### Engineer • Systems Thinker • Security Practitioner • Writer • Philosopher
 
-## About
+> *"Between logic and wonder, I build systems, pursue truth, and write what words cannot contain."*
 
-Self-taught, documentation-dependent Software Engineer with **6+ years** bridging secure software development with system operations. I work in **Go**, **PHP**, and **Python** for backend, and I spend my nights in penetration testing labs, cloud infrastructure rabbit holes, and the occasional poetry draft.
+<br>
 
-> *"Breaking things to fix them better. Building systems that last."*
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF8C42?style=for-the-badge&logo=About.me&logoColor=white)](https://shams.surjyopath.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shamsPathan)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://shamspathan.medium.com)
+[![Resume](https://img.shields.io/badge/Resume-FF8C42?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/shamsPathan/shamsPathan/raw/main/public/resume_shams_pathan_developer.pdf)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shamspathan@outlook.com)
 
----
+</div>
 
-## Tech Stack
 
+# 🌌 The Journey
+
+I don't see software as merely code.
+
+I see it as a bridge between imagination and reality.
+
+Some ideas become software.
+
+Some become secure infrastructure.
+
+Some become communities.
+
+Some become poems.
+
+Everything I build begins with one question:
+
+> **"Will this leave the world a little better than I found it?"**
+
+Technology is my profession.
+
+Learning is my lifestyle.
+
+Ethics is my compass.
+
+Curiosity is my fuel.
+
+
+# 🛠 What I Build
+
+I enjoy building systems that are:
+
+- Secure by design
+- Simple to understand
+- Reliable under pressure
+- Easy to maintain
+- Pleasant to use
+
+Whether writing backend services, deploying cloud infrastructure, debugging distributed systems, or exploring security vulnerabilities, I enjoy understanding **how things work beneath the surface.**
+
+
+# ⚡ Areas I Work In
+
+### Software Engineering
+
+- Golang
+- PHP
+- Python
+- TypeScript
+- JavaScript
+
+### Backend
+
+- REST APIs
+- Microservices
+- Authentication
+- System Design
+- Distributed Systems
+
+### DevOps & Cloud
+
+- Linux
+- Docker / Podman
+- Nginx
+- GitHub Actions
+- CI/CD
+- VPS Management
+- Cloud Infrastructure
+
+### Databases
+
+- PostgreSQL
+- MySQL
+- Redis
+- MongoDB
+- Elasticsearch
+
+### Cyber Security
+
+Currently growing toward becoming a Cyber Security professional.
+
+Interested in:
+
+- Secure Development
+- Web Security
+- Linux Security
+- Penetration Testing
+- Threat Analysis
+- Digital Forensics
+- Incident Response
+- OWASP
+- Network Security
+
+I believe security isn't another feature.
+
+It is part of engineering.
+
+
+# 📚 Current Learning
+
+Every year I try to become slightly better than the previous one.
+
+Currently exploring:
+
+- Advanced Golang
+- Cyber Security
+- Reverse Engineering
+- Malware Analysis
+- Digital Forensics
+- Distributed Systems
+- Cloud Architecture
+- Artificial Intelligence
+- System Design
+
+
+# 🌱 Beyond Technology
+
+Technology explains **how**.
+
+Philosophy asks **why**.
+
+Poetry explores **what words cannot directly express.**
+
+Outside programming I enjoy learning about
+
+- Philosophy
+- Psychology
+- Poetry
+- Ethics
+- History
+- Human Nature
+- Learning Science
+
+Because every system is eventually built for people.
+
+Understanding people is part of understanding technology.
+
+
+# 🧭 Principles
+
+```text
+Integrity      over Convenience
+
+Understanding  over Assumptions
+
+Purpose        over Popularity
+
+Curiosity      over Ego
+
+Learning       over Certainty
+
+Simplicity     over Complexity
 ```
-Languages:       Go · Python · PHP · TypeScript · JavaScript
-Frameworks:      Gin · Laravel · Vue.js · Node.js
-Cloud & DevOps:  Docker · Kubernetes · GCP · AWS · Terraform · GitHub Actions
-Databases:       MySQL · PostgreSQL · Redis · MongoDB · Elasticsearch
-Tools:           Linux · Git · Nginx · RabbitMQ · Postman
-Security:        Kali Linux · Burp Suite · Wireshark · Metasploit · Nmap · TryHackMe · OWASP
+
+
+# 🚀 Tech Stack
+
+```text
+Languages
+────────────
+Go
+Python
+PHP
+TypeScript
+JavaScript
+
+Backend
+────────────
+Gin
+Laravel
+REST APIs
+Node.js
+
+Frontend
+────────────
+React
+Vue
+TailwindCSS
+
+Cloud & DevOps
+────────────
+Linux
+Docker
+Podman
+Nginx
+GitHub Actions
+Terraform
+AWS
+Google Cloud
+
+Databases
+────────────
+PostgreSQL
+MySQL
+Redis
+MongoDB
+Elasticsearch
+
+Security
+────────────
+OWASP
+Burp Suite
+Wireshark
+Metasploit
+Nmap
+TryHackMe
+Kali Linux
 ```
 
----
-
-## GitHub Stats
-
+# 📈 GitHub
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shamsPathan&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117&title_color=14b8a6&icon_color=14b8a6">
@@ -56,40 +240,60 @@ Security:        Kali Linux · Burp Suite · Wireshark · Metasploit · Nmap · 
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=shamsPathan&theme=tokyonight&hide_border=true&border_radius=10&background=0d1117&stroke=14b8a6&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&sideNums=14b8a6&count_private=true">
     <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=shamsPathan&theme=default&hide_border=true&border_radius=10&count_private=true" alt="GitHub Streak">
   </picture>
-</p>
+</p>    
 
----
+# ✍ Recent Writing
 
-## Blog
+### From CTF to IR Forensic
 
-- [**From CTF to IR Forensic — Deep Dive into TryHackMe's Containment Room**](https://shamspathan.medium.com/from-ctf-to-ir-forensic-deep-dive-into-tryhackmes-containment-room-cfc90e43468f) — *Mar 2025*
-  Incident response walkthrough — forensic analysis, containment strategies, and blue-team mindset.
+Deep dive into TryHackMe's Containment Room and incident response methodology.
 
-- [**How Working with Mosquitto Helped Me Grow as a Developer**](https://shamspathan.medium.com/how-working-with-mosquitto-helped-me-grow-as-a-developer-a-journey-into-iot-communication-0d798904fb98) — *Mar 2025*
-  Reflections on building real-time IoT systems with MQTT and Mosquitto — protocol design, pub/sub patterns, and developer growth.
+### Working with Mosquitto
 
-- [**Why You Can't Access Struct Fields Through Interfaces in Go (and What to Do About It)**](https://shamspathan.medium.com/why-you-cant-access-struct-fields-through-interfaces-in-go-and-what-to-do-about-it-7a86f0aa36ea) — *Mar 2025*
-  Deep dive into Go's type system — interface values, type assertions, reflection, and generics.
+Lessons learned while building IoT communication systems.
 
----
+### Understanding Go Interfaces
 
-<p align="center">
-  <a href="https://shams.surjyopath.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%2314b8a6?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://linkedin.com/in/shamsPathan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:shamspathan@outlook.com">
-    <img src="https://img.shields.io/badge/Email-%23EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/shamsPathan/shamsPathan/raw/main/public/resume_shams_pathan_developer.pdf">
-    <img src="https://img.shields.io/badge/Resume-%2314b8a6?style=flat-square&logo=googledocs&logoColor=white" alt="Resume">
-  </a>
-</p>
+Exploring interfaces, reflection and generics in Go.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shamsPathan&style=flat-square&color=14b8a6" alt="Profile views">
-  <br>
-  <sub>Break things. Fix them better. Build systems that last.</sub>
-</p>
+More articles:
+
+➡️ **https://shamspathan.medium.com**
+
+
+# 🌠 My Philosophy
+
+I don't believe we exist merely to produce software.
+
+Software is simply one expression of human creativity.
+
+Engineering teaches precision.
+
+Security teaches responsibility.
+
+Poetry teaches empathy.
+
+Philosophy teaches humility.
+
+Together they remind us that every line of code ultimately serves another human being.
+
+
+<div align="center">
+
+## "We are not productivity machines.
+
+## We are meaning-making beings."
+
+
+### Building systems.
+
+### Seeking truth.
+
+### Writing meaning.
+
+⭐ If something I build helps you, teaches you, or inspires you, I'm glad our paths crossed.
+
+<img src="https://komarev.com/ghpvc/?username=shamsPathan&style=for-the-badge&color=ff8c42"/>
+
+</div>
+
